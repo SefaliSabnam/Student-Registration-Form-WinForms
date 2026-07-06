@@ -19,7 +19,7 @@ A simple Student Registration Form developed using **C# Windows Forms (.NET Fram
 
 - C#
 - Windows Forms (.NET Framework)
-- Visual Studio 2022
+- Visual Studio 2026
 
 ## Screenshots
 
