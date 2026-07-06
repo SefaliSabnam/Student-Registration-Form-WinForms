@@ -4,16 +4,16 @@ A simple Student Registration Form developed using **C# Windows Forms (.NET Fram
 
 ## Features
 
-- Upload profile photo using PictureBox
+- Upload profile photo
 - Browse image using OpenFileDialog
-- Enter student name
+- Enter Name
 - Select Date of Birth
 - Select Gender
 - Select Marital Status
 - Select Qualification
-- Choose Experience from ComboBox
-- Write About Project using RichTextBox
-- Display all entered details using MessageBox
+- Choose Experience
+- About Project
+- Display all details using MessageBox
 
 ## Technologies Used
 
@@ -21,54 +21,15 @@ A simple Student Registration Form developed using **C# Windows Forms (.NET Fram
 - Windows Forms (.NET Framework)
 - Visual Studio 2022
 
-## Controls Used
-
-- Label
-- TextBox
-- PictureBox
-- Button
-- DateTimePicker
-- RadioButton
-- CheckBox
-- ComboBox
-- RichTextBox
-- OpenFileDialog
-- MessageBox
-
-## Project Structure
-
-```
-StudentForm
-│
-├── Form1.cs
-├── Form1.Designer.cs
-├── Form1.resx
-├── Program.cs
-├── App.config
-└── README.md
-```
-
-## How to Run
-
-1. Clone the repository.
-
-```
-git clone https://github.com/yourusername/Student-Registration-Form-WinForms.git
-```
-
-2. Open the solution in Visual Studio.
-
-3. Build the project.
-
-4. Press **F5** to run.
-
 ## Screenshots
 
-_Add screenshots of your application here._
+### Main Form
 
-## Output
+![Main Form](Screenshots/Mainform.jpg)
 
-The application collects student information and displays all entered details in a MessageBox after clicking the **Submit** button.
+### Output
+
+![Output](Screenshots/Output.jpg)
 
 ## Author
 
