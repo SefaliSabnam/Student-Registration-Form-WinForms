@@ -23,11 +23,11 @@ A simple Student Registration Form developed using **C# Windows Forms (.NET Fram
 
 ## Screenshots
 
-### Main Form
+## Main Form
 
 ![Main Form](Screenshots/Mainform.jpg)
 
-### Output
+## Output
 
 ![Output](Screenshots/Output.jpg)
 
