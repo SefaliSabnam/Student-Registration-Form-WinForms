@@ -76,6 +76,7 @@ This project is designed as a beginner-friendly application to understand the fu
 ## Output
 
 ![Output](Screenshots/Output.jpg)
+
 ---
 ##  Debugging / Troubleshooting
 
