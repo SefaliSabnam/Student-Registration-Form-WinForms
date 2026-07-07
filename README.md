@@ -4,7 +4,7 @@ A simple Student Registration Form developed using **C# Windows Forms (.NET Fram
 
 ##  Project Description
 
-The **Student Registration Form** is a desktop application developed using **C# Windows Forms (.NET Framework)** in **Visual Studio 2022**. It provides a simple interface for collecting and displaying student information through commonly used Windows Forms controls.
+The **Student Registration Form** is a desktop application developed using **C# Windows Forms (.NET Framework)** in **Visual Studio 2026**. It provides a simple interface for collecting and displaying student information through commonly used Windows Forms controls.
 
 The application allows users to upload a profile photo, enter personal details such as name and date of birth, select gender, marital status, qualifications, work experience, and describe their project. After clicking the **Submit** button, all entered information is displayed in a MessageBox, demonstrating event handling, user input processing, and basic form validation in Windows Forms.
 
