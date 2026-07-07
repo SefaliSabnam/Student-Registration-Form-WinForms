@@ -76,7 +76,7 @@ This project is designed as a beginner-friendly application to understand the fu
 ## Output
 
 ![Output](Screenshots/Output.jpg)
-
+---
 ##  Debugging / Troubleshooting
 
 ### 1. Picture is not displayed after browsing
