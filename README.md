@@ -2,6 +2,28 @@
 
 A simple Student Registration Form developed using **C# Windows Forms (.NET Framework)**.
 
+##  Project Description
+
+The **Student Registration Form** is a desktop application developed using **C# Windows Forms (.NET Framework)** in **Visual Studio 2022**. It provides a simple interface for collecting and displaying student information through commonly used Windows Forms controls.
+
+The application allows users to upload a profile photo, enter personal details such as name and date of birth, select gender, marital status, qualifications, work experience, and describe their project. After clicking the **Submit** button, all entered information is displayed in a MessageBox, demonstrating event handling, user input processing, and basic form validation in Windows Forms.
+
+This project is designed as a beginner-friendly application to understand the fundamentals of **GUI development**, **event-driven programming**, and the practical use of Windows Forms controls in C#.
+
+---
+
+##  Project Objectives
+
+- Develop a user-friendly Windows desktop application.
+- Learn the fundamentals of Windows Forms development.
+- Understand event-driven programming in C#.
+- Practice working with common Windows Forms controls.
+- Implement image upload using `OpenFileDialog`.
+- Collect and display user information dynamically.
+- Build a strong foundation for advanced desktop application development.
+
+---
+
 ## Features
 
 - Upload profile photo
@@ -15,11 +37,35 @@ A simple Student Registration Form developed using **C# Windows Forms (.NET Fram
 - About Project
 - Display all details using MessageBox
 
-## Technologies Used
 
-- C#
-- Windows Forms (.NET Framework)
-- Visual Studio 2026
+##  Technologies Used
+
+- **Language:** C#
+- **Framework:** .NET Framework 4.7.2
+- **IDE:** Visual Studio 2026
+- **Application Type:** Windows Forms Desktop Application
+- **Concepts:** Event Handling, GUI Design, Object-Oriented Programming (OOP)
+
+---
+
+##  Windows Forms Controls Used
+
+| Control | Purpose |
+|---------|---------|
+| Label | Display field names |
+| TextBox | Enter student name |
+| PictureBox | Display uploaded photo |
+| Button | Browse image and submit form |
+| DateTimePicker | Select date of birth |
+| GroupBox | Organize related controls |
+| RadioButton | Select gender and marital status |
+| CheckBox | Select qualifications |
+| ComboBox | Select experience |
+| RichTextBox | Enter project description |
+| OpenFileDialog | Browse image from computer |
+| MessageBox | Display entered details |
+
+---
 
 ## Screenshots
 
